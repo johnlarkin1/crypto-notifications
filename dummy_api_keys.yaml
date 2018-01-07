@@ -1,0 +1,5 @@
+twilio_account_sid: <insert your own info here>
+twilio_auth_token: <insert your own info here>
+gdax_key: <insert your own info here>
+gdax_api_secret: <insert your own info here>
+gdax_passphrase: <insert your own info here>
